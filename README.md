@@ -17,12 +17,11 @@ Jean</a></h1>
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
-
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 🔧 I studied software engineering at the UPC.
+- 💡 I like to explore new technologies and develop software solutions and quick tricks.
+- 🌱 I’m currently learning Mobile application development.
+- 📝 I have a strong interest in Data Science and Artificial Intelligence
+- 📫 How to reach me ...jean126pi@gmail.com
 
 <hr>
 
