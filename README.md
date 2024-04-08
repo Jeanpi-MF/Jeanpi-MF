@@ -14,8 +14,18 @@ Jean</a></h1>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## ⚡🙋‍♂️ About Me
 
-<br><br>
+</br>
+
+- 🔧 I’m currently working on ...Online Retail Community App.
+
+- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 📖 I’m currently learning ...Flask.
+- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 📫 How to reach me ...gkaustav57@gmail.com.
+
+<hr>
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
